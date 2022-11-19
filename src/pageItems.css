@@ -1,0 +1,77 @@
+@font-face {
+  font-family: 'IMFePIit28P';
+  src: url('./font/IMFePIit28P.ttf');
+}
+
+.blackBox{
+  display: flex;
+  flex-direction: column;
+  max-width: 50%;
+  margin-right: auto;
+  margin-left: auto;
+  border: 2px white solid;
+  padding: 1rem;
+  background-color: black;
+}
+
+.list{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.item{
+  display: flex;
+  align-items: center;
+  margin-right: 1.4rem;
+  margin-top: .5rem;
+  margin-bottom: .5rem;
+  color: white;
+}
+
+.itemIcon{
+  height: auto;
+  width: 20px;
+  margin-right: .4rem;
+}
+
+a{
+  display: flex;
+  color: inherit;
+  text-decoration: none;
+}
+
+.item:hover{
+  color: blue;
+  transition-duration: .3s;
+}
+
+.widgets{
+  border-top: 1px white solid;
+  padding-top: 1rem;
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.quotes{
+  width: 14rem;
+  display: flex;
+  flex-direction: column;
+  font-family: 'IMFePIit28P', serif;
+}
+
+.quoteContent{
+  font-family: 'IMFePIit28P', serif;
+  color: white;
+  font-weight: 100;
+  text-align: right;
+}
+
+.source{
+  font-family: 'IMFePIit28P', serif;
+  color: white;
+  font-weight: 100;
+  font-size: 1.2rem;
+  text-align: right;
+  margin-top: .4rem;
+}

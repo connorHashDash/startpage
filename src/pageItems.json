@@ -1,0 +1,35 @@
+[
+  {
+  "name": "WhatsApp",
+  "url": "https://web.whatsapp.com/"
+  },
+  {
+  "name": "Piped",
+  "url": "https://piped.moomoo.me/"
+  },
+  {
+  "name": "JS Info",
+  "url": "https://javascript.info/"
+  },
+  {
+  "name": "Pirate Bay",
+  "url": "https://pirateproxy.readthedocs.io/en/latest/index.html#"
+  },
+  {
+  "name": "Outlook",
+  "url": "https://outlook.live.com/mail/0/"
+  },
+  {
+  "name": "Gmail",
+  "url": "https://mail.google.com/mail/u/0/#inbox"
+  },
+  {
+  "name": "Amazon",
+  "url": "https://amazon.co.uk"
+  },
+  {
+  "name": "Translate",
+  "url": "https://simplytranslate.org/"
+  }
+]
+
