@@ -4,16 +4,12 @@
   "url": "https://web.whatsapp.com/"
   },
   {
-  "name": "Piped",
-  "url": "https://piped.moomoo.me/"
-  },
-  {
   "name": "JS Info",
   "url": "https://javascript.info/"
   },
   {
-  "name": "Pirate Bay",
-  "url": "https://pirateproxy.readthedocs.io/en/latest/index.html#"
+  "name": "FMHY",
+  "url": "https://fmhy.net/"
   },
   {
   "name": "Outlook",
@@ -28,8 +24,12 @@
   "url": "https://amazon.co.uk"
   },
   {
-  "name": "Translate",
-  "url": "https://simplytranslate.org/"
+  "name": "PHP: The Right Way",
+  "url": "https://phptherightway.com/"
+  },
+  {
+  "name": "ChatGPT",
+  "url": "https://chatgpt.com/"
   }
 ]
 

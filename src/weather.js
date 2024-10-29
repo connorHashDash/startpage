@@ -1,7 +1,7 @@
 import React, {Component} from 'react'
 import './weather.css'
 
-let weatherURL = 'https://api.openweathermap.org/data/2.5/weather?q=desborough&appid=12409aadc256c8c0e471623828828ac4'
+let weatherURL = 'https://api.openweathermap.org/data/2.5/weather?q=leighton buzzard&appid=12409aadc256c8c0e471623828828ac4'
 
 
 class Weather extends Component {
